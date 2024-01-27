@@ -14,7 +14,7 @@ Refer to the following markdown file for the respective sections of the class:
 
 Learners will understand:
 
-- Definition, Historical Context, Challenges and Applications of Computer Vision (CV)
+- Definition, Historical Context, Challenges and Applications of Natural Language Processing (NLP)
 - Text Preprocessing
 - Text Normalization
 - Language Modeling
