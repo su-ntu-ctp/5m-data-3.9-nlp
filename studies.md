@@ -6,4 +6,5 @@ In this lesson, we will be learning about Natural Language Processing (NLP), its
 
 ### Foundation
 
+- [A brief history of Natural Language Processing (NLP)](https://www.dataversity.net/a-brief-history-of-natural-language-processing-nlp/)
 - [Major Challenges of Natural Language Processing (NLP)](https://monkeylearn.com/blog/natural-language-processing-challenges/)
